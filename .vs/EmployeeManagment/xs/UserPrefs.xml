@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{C51236B6-A97C-446A-8849-89DA114E7A08}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountController.cs">
+    <Files>
+      <File FileName="Controllers/AccountController.cs" Line="365" Column="1" />
+      <File FileName="Views/Account/Register.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/ResetPassword.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/ResetPasswordConfirmation.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/ChangePassword.cshtml" Line="28" Column="7" />
+      <File FileName="Views/Account/ChangePasswordConfirmation.cshtml" Line="3" Column="6" />
+      <File FileName="Views/Account/AccessDenied.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Account/Login.cshtml" Line="33" Column="27" />
+      <File FileName="Models/Employee.cs" Line="1" Column="1" />
+      <File FileName="Models/Dept.cs" Line="1" Column="1" />
+      <File FileName="Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ErrorController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/AdministrationController.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="125" Column="1" />
+      <File FileName="Views/Account/ConfirmEmail.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/Error.cshtml" Line="24" Column="10" />
+      <File FileName="ViewModels/LoginViewModel.cs" Line="21" Column="9" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="EmployeeManagment.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeManagment" expanded="True">
+            <Node name="EmployeeManagment" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Administration" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EmployeeManagment PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
