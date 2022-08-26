@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountController.cs">
     <Files>
-      <File FileName="Controllers/AccountController.cs" Line="365" Column="1" />
+      <File FileName="Controllers/AccountController.cs" Line="375" Column="22" />
       <File FileName="Views/Account/Register.cshtml" Line="1" Column="1" />
       <File FileName="Views/Account/ResetPassword.cshtml" Line="1" Column="1" />
       <File FileName="Views/Account/ResetPasswordConfirmation.cshtml" Line="1" Column="1" />
@@ -28,7 +28,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmployeeManagment" expanded="True">
-            <Node name="EmployeeManagment" expanded="True" selected="True">
+            <Node name="EmployeeManagment" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="ViewModels" expanded="True" />
